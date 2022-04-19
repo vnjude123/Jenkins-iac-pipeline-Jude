@@ -1,0 +1,6 @@
+@Library('digital-platform@test-rsrch') _
+
+digitalPipeline {
+  appName = "dfp/deploy/gcp_iac_pipeline_setup"
+  appType = "js"
+}
